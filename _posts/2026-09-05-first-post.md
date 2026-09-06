@@ -18,4 +18,4 @@ I have no circuitry expirience
 
 I hope to learn how to better use online resources to present information, and how to integrate tech into my art.
 
-My boring fact: I want to have a hairless cat when I grow up so i can knit it sweaters.
+My boring fact: I want to have a hairless cat when I grow up so I can knit it sweaters.
