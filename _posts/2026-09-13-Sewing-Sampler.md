@@ -15,6 +15,8 @@ The thing I learned about embroidery through making this sampler is patience. Em
 
 Front of Sampler:
 
+![Screenshot 2026-09-13 at 11.12.27 AM](assets/img/Screenshot_2026-09-13_at_11.12.27_AM.png)
+
 Back of Sampler:
 
 ![Sampler(Back)](/assets/img/Sampler(Back).png)
