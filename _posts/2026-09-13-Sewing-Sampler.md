@@ -15,8 +15,6 @@ The thing I learned about embroidery through making this sampler is patience. Em
 
 Front of Sampler:
 
-![Crepe](![Crepe](/assets/img/crepe.jpg))
-
 Back of Sampler:
 
 ![Sampler(Back)](/assets/img/Sampler(Back).png)
