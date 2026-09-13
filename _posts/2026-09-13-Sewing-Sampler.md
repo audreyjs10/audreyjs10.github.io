@@ -15,12 +15,12 @@ The thing I learned about embroidery through making this sampler is patience. Em
 
 Front of Sampler:
 
-![Sampler(Front](/assets/img/Screenshot2026-09-13at10.17.23AM.png){: .mx-auto.d-block :}
+![assets/img/Screenshot 2026-09-13 at 10.17.23 AM.png](/assets/img/assets/img/Screenshot_2026-09-13_at_10.17.23_AM.png)
 
 
 Back of Sampler:
 
-![Sampler(Back)](/assets/img/Sampler(Back).png){: .mx-auto.d-block :}
+![Sampler(Back)](/assets/img/Sampler(Back).png)
 
 
 Here's a code chunk:
