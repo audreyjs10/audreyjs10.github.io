@@ -15,12 +15,12 @@ The thing I learned about embroidery through making this sampler is patience. Em
 
 Front of Sampler:
 
-![Sampler(front)](https://beautifuljekyll.com/assets/img/Sampler(front).png){: .mx-auto.d-block :}
+![Sampler(Front](/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 
 Back of Sampler:
 
-![Sampler(back)](https://beautifuljekyll.com/assets/img/Sampler(back).png){: .mx-auto.d-block :}
+![Sampler(Back)](/assets/img/Sampler(Back).png){: .mx-auto.d-block :}
 
 
 Here's a code chunk:
