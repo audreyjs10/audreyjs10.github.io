@@ -15,8 +15,7 @@ The thing I learned about embroidery through making this sampler is patience. Em
 
 Front of Sampler:
 
-![assets/img/Screenshot 2026-09-13 at 10.17.23 AM.png](/assets/img/assets/img/Screenshot_2026-09-13_at_10.17.23_AM.png)
-
+![Crepe](![Crepe](/assets/img/crepe.jpg))
 
 Back of Sampler:
 
