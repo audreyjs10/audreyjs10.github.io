@@ -1,0 +1,17 @@
+---
+layout: post
+title: Blinky lights
+subtitle: Learning if statements
+gh-repo: daattali/beautiful-jekyll
+author: Audrey Smith
+---
+
+This assignment required programming the Arduino to blink different colors at n second. We had to use IF statements to turn on and off the board at different multiples and second check points.
+My tip is to not be afraid to make new lines of code. I kept thinking that making a new line meant i must be doing something wrong, but that always ended up being the right answer.
+
+![Crepe](/assets/img/crepe.jpg)
+
+If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
+
+![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+
