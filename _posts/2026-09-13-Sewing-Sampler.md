@@ -11,7 +11,7 @@ The thing I learned about embroidery through making this sampler is patience. Em
 
 Front of Sampler:
 
-![Sampler(Front)]((https://audreyjs10.github.io/assets/img/Sampler(Front).png)
+![Sampler(Front)](https://audreyjs10.github.io/assets/img/Sampler(Front).png)
 
 Back of Sampler:
 
