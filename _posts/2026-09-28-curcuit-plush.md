@@ -5,20 +5,17 @@ subtitle: making Chloe!
 author: Audrey Smith
 ---
 
+Chloe is a parallel circuit plush controlled by both a button and switch which control the three LED lights on her front and attach to the battery on the back for energy.
 
-a photo of the Plushy Paper Prototype.
-a photo of the alligator prototyping stage of the Plushy
-a photo of the (3) front (4) & back of your completed plushy
-
-Include a description of the project (in your words)
-Chloe is a parallel circuit plush controlled by both a button and switch which control the three lights on her front and attach to the battery on the back.
-One tip/trick/hint for others attempting this project for the first time.
+One things that helped me was tacking down the lights and other accessories with a single stitch tied around the middle so there weren't threads getting in my way but the things were staying still. I also found the small felt square cover as insulation to be helpful as a person who likes symmetry.
 
 Here is Chloe's prototype:
 
 ![ChloePrototype.png](https://audreyjs10.github.io/assets/img/ChloePrototype.png)
 
-This is her alligator clip set up
+This is her alligator clip set up:
+
+![ChloeClips.png](https://audreyjs10.github.io/assets/img/ChloeClips.png)
 
 Here is her front:
 
