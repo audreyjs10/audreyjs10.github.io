@@ -15,10 +15,10 @@ Paper Prototype:
 Alligator clip setup:
 ![BandAlligator.png](https://audreyjs10.github.io/assets/img/BandAlligator.png)
 
-Front of Switchband:
-![BandFront.png](https://audreyjs10.github.io/assets/img/Bandfront.png)
-
 Back of Switchband:
+![BandBack.png](https://audreyjs10.github.io/assets/img/BandBack.png)
+
+Front of Switchband:
 ![BandFront.png](https://audreyjs10.github.io/assets/img/BandFront.png)
 
 
