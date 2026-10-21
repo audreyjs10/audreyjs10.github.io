@@ -11,3 +11,5 @@ flashes a bright light for half a second every three and a half seconds. Blue Gh
 
 One tip for putting them all together is to use the finder feature to make sure there are no repeating variables and double check the all the numbers align.
 
+**REMINDER: my code wont upload all the way, so I dont have a photo at this time**
+
